@@ -1,0 +1,14 @@
+C:\Users\lucca\source\repos\Bytebank\Bytebank\bin\Debug\net6.0\Bytebank.exe
+C:\Users\lucca\source\repos\Bytebank\Bytebank\bin\Debug\net6.0\Bytebank.deps.json
+C:\Users\lucca\source\repos\Bytebank\Bytebank\bin\Debug\net6.0\Bytebank.runtimeconfig.json
+C:\Users\lucca\source\repos\Bytebank\Bytebank\bin\Debug\net6.0\Bytebank.dll
+C:\Users\lucca\source\repos\Bytebank\Bytebank\bin\Debug\net6.0\Bytebank.pdb
+C:\Users\lucca\source\repos\Bytebank\Bytebank\obj\Debug\net6.0\Bytebank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucca\source\repos\Bytebank\Bytebank\obj\Debug\net6.0\Bytebank.AssemblyInfoInputs.cache
+C:\Users\lucca\source\repos\Bytebank\Bytebank\obj\Debug\net6.0\Bytebank.AssemblyInfo.cs
+C:\Users\lucca\source\repos\Bytebank\Bytebank\obj\Debug\net6.0\Bytebank.csproj.CoreCompileInputs.cache
+C:\Users\lucca\source\repos\Bytebank\Bytebank\obj\Debug\net6.0\Bytebank.dll
+C:\Users\lucca\source\repos\Bytebank\Bytebank\obj\Debug\net6.0\refint\Bytebank.dll
+C:\Users\lucca\source\repos\Bytebank\Bytebank\obj\Debug\net6.0\Bytebank.pdb
+C:\Users\lucca\source\repos\Bytebank\Bytebank\obj\Debug\net6.0\Bytebank.genruntimeconfig.cache
+C:\Users\lucca\source\repos\Bytebank\Bytebank\obj\Debug\net6.0\ref\Bytebank.dll
